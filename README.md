@@ -6,3 +6,7 @@
 
 ## Dating game Example 
 ![Image of Plot](DatingGame.png)
+
+
+## Prisoner's Dilemma Example 
+![Image of Plot](prisonersDilemma.png)
