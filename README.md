@@ -4,5 +4,5 @@
 ![Image of Plot](Interface_.png)
 
 
-## Example 
+## Dating game Example 
 ![Image of Plot](DatingGame.png)
