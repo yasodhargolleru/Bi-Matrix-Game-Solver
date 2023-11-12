@@ -10,3 +10,6 @@
 
 ## Prisoner's Dilemma Example 
 ![Image of Plot](prisonersDilemma.png)
+
+## Matching Pennys Example 
+![Image of Plot](MatchingPenny.png)
