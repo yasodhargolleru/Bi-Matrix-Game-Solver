@@ -1,7 +1,7 @@
 # Bi-Matrix-Game
 
 ## Interface
-![Image of Plot](Interface.png)
+![Image of Plot](Interface_.png)
 
 
 ## Example 
